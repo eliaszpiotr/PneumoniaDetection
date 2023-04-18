@@ -1,3 +1,5 @@
+[![Otwórz w Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xarG-q6g_wf80jZOzKXufne0MUJBlMMN#scrollTo=duAwuHpxTBak&uniqifier=1)
+
 # Pneumonia Detection using X-Ray scans
 
 ## Description:
