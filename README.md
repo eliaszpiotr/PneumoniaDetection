@@ -14,5 +14,15 @@ The dataset used in the project consists of X-ray images that have been labeled 
 * The dataset used in the project consists of X-ray scans that have been labeled as `normal` or `pneumonia`.
 * The deep learning model has been trained using technique such as CNNs.
 
+## Version:
+
+### v0.1.0-alpha
+* This is the first alpha release of the Pneumonia Detection project.
+* The machine learning model has been trained using PyTorch and convolutional neural networks.
+* The model is capable of detecting pneumonia from chest X-ray scans, but further testing and improvements are required.
+* This release is intended for testing purposes only and should not be used in production environments.
+
+***Please note**: This is an alpha release and the model is not yet fully optimized for production use. Further improvements will be made in the upcoming releases.*
+
 ## Authors
 Eliasz Piotr (eliasz.piotr@icloud.com)
