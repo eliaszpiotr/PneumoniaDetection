@@ -1,12 +1,14 @@
 [![Otwórz w Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12y34KRUHuGx947JFxv_65fTBXwv1KBL7#scrollTo=HnMAQlEvsP4u&uniqifier=1)
 
-# Detection of irregularities using X-ray images
+# Detection of irregularities in the organs of the chest using X-ray images
 
 ## Description:
 
-The Pneumonia Detection project is an ML-based project that aims to detect pneumonia from X-ray scans. The project leverages deep learning techniques to accurately identify pneumonia in patients by analyzing chest X-ray scans. The project is built using the PyTorch framework, which provides state-of-the-art machine learning capabilities.
+The Detection of Irregularities in Chest Organs project is an ML-based project that aims to detect various irregularities in the organs of the chest using X-ray images. The project leverages deep learning techniques to accurately identify abnormalities in the lungs, heart, and other chest organs by analyzing chest X-ray scans. The project is built using the PyTorch framework, which provides state-of-the-art machine learning capabilities.
 
-The dataset used in the project consists of X-ray images that have been labeled as either normal or pneumonia. The PyTorch deep learning model has been trained on this dataset using technique such as convolutional neural networks (CNNs).
+Currently, the project focuses on detecting pneumonia from X-ray images. The dataset used in the project consists of X-ray images that have been labeled as either normal or abnormal. The PyTorch deep learning model has been trained on this dataset using techniques such as convolutional neural networks (CNNs).
+
+Future plans for the project involve expanding its capabilities to include the detection of other chest-related conditions and abnormalities that can be identified using X-ray images.
 
 ## Technical Details:
 
