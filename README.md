@@ -23,7 +23,7 @@ Future plans for the project involve expanding its capabilities to include the d
 - Added new features to enhance model efficiency
 - Modified training loop for increased effectiveness
 
-## v0.1.1-alpha
+### v0.1.1-alpha
 
 - Handling data imbalance by increasing the sample count and creating a custom dataset
 - Introducing transformers for image processing to enhance model performance
