@@ -17,6 +17,11 @@ Future plans for the project involve expanding its capabilities to include the d
 * The deep learning model has been trained using technique such as CNNs.
 
 ## Version:
+### v2.0.0
+
+- Upgraded classification model architecture for improved performance
+- Added new features to enhance model efficiency
+- Modified training loop for increased effectiveness
 
 ### v0.1.0-alpha
 * This is the first alpha release of the Pneumonia Detection project.
