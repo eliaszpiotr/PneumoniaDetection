@@ -23,11 +23,17 @@ Future plans for the project involve expanding its capabilities to include the d
 - Added new features to enhance model efficiency
 - Modified training loop for increased effectiveness
 
+## v0.1.1-alpha
+
+- Handling data imbalance by increasing the sample count and creating a custom dataset
+- Introducing transformers for image processing to enhance model performance
+- Code updates for improved image selection process
+
 ### v0.1.0-alpha
-* This is the first alpha release of the Pneumonia Detection project.
-* The machine learning model has been trained using PyTorch and convolutional neural networks.
-* The model is capable of detecting pneumonia from chest X-ray scans, but further testing and improvements are required.
-* This release is intended for testing purposes only and should not be used in production environments.
+- This is the first alpha release of the Pneumonia Detection project.
+- The machine learning model has been trained using PyTorch and convolutional neural networks.
+- The model is capable of detecting pneumonia from chest X-ray scans, but further testing and improvements are required.
+- This release is intended for testing purposes only and should not be used in production environments.
 
 ***Please note**: This is an alpha release and the model is not yet fully optimized for production use. Further improvements will be made in the upcoming releases.*
 
