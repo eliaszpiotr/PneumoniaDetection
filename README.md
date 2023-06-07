@@ -17,6 +17,10 @@ Future plans for the project involve expanding its capabilities to include the d
 * The deep learning model has been trained using technique such as CNNs.
 
 ## Version:
+### v0.2.1
+
+- Fixed tracking of training process and saving best possible performance 
+
 ### v0.2.0
 
 - Upgraded classification model architecture for improved performance
