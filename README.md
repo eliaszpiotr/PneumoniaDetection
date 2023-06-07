@@ -1,4 +1,4 @@
-[![Otwórz w Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12HU4Z1lUAFhZ6Gwo20EgqQYXjkeUAaZc#scrollTo=dO_gsouBOP_z&uniqifier=3)
+[![Otwórz w Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12HU4Z1lUAFhZ6Gwo20EgqQYXjkeUAaZc?usp=sharing)
 
 # Detection of irregularities in the organs of the chest using X-ray images
 
