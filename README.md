@@ -30,29 +30,6 @@ To use this project, you can follow the instructions below.
 
 3. You can now run the code cells in the notebook and explore the project.
 
-### Running the Project in Jupyter
-
-1. Download the notebook file from the following link:
-   [Notebook File](https://github.com/eliaszpiotr/PneumoniaDetection/raw/main/pneumonia_detection_v02_3.ipynb)
-
-2. Open Jupyter on your local machine or on a server.
-
-3. Upload the notebook file to Jupyter.
-
-4. You can now run the code cells in the notebook and explore the project.
-
-### Running the Project in PyCharm
-
-1. Download or clone the project repository from GitHub.
-
-2. Open the project in PyCharm.
-
-3. Make sure you have the required dependencies installed. You can find the required libraries in the `requirements.txt` file.
-
-4. Set up the project interpreter and configure the run configuration in PyCharm.
-
-5. You can now run the project and explore the code in PyCharm.
-
 ***Please note** that if you want to use the model, you will need to use the files from the [models folder](https://github.com/eliaszpiotr/PneumoniaDetection/tree/main/models) and choose the appropriate model file. For version v0.2.3, you will need to download the files from the folder.*
 
 
